@@ -2,3 +2,4 @@
 ## Przydatne linki
 https://start.spring.io
 ## Inne githuby
+Kurzyna: https://github.com/kurzynam?tab=repositories
