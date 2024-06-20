@@ -2,5 +2,5 @@
 ## Przydatne linki
 https://start.spring.io
 ## Inne githuby
-Kurzyna: https://github.com/kurzynam?tab=repositories
+Kurzyna: https://github.com/kurzynam?tab=repositories \n
 Michał Dziuba: https://github.com/michaldziuba03/java
