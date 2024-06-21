@@ -10,6 +10,10 @@
     <packaging>pom</packaging>
     <modules>
         <module>client_sever_base</module>
+        <module>Kolokwium_02_2022/Client</module>
+        <module>Kolokwium_02_2022/Server</module>
+        <module>Tests</module>
+        <module>webservice_base/demo</module>
     </modules>
 
     <properties>
